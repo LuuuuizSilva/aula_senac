@@ -1,2 +1,1 @@
-# Protagonize
-Projeto Final Senac
+Senac
